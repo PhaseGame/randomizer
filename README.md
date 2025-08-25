@@ -20,5 +20,13 @@ Run command:
 python run.py durov-glasses-20-aug --seed 66631
 ```
 
+### tyler-25-aug
+Tyler giveaway.
+
+Run command:
+```bash
+python run.py tyler-25-aug --seed 23556
+```
+
 ## Reproducibility
 - Using the same `--seed` with the same `data.csv` yields identical winners.
