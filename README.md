@@ -8,7 +8,7 @@ The random seed used for selecting the winners is determined during a livestream
 - Output file: `winners.csv` is written to the event’s directory.
 - Example:
 ```bash
-python run.py durov-glasses-20-aug --seed 461970
+python run.py durov-glasses-20-aug --seed 12345
 ```
 
 ## Events
@@ -17,7 +17,7 @@ Durov Glasses + Starz giveaway.
 
 Run command:
 ```bash
-python run.py durov-glasses-20-aug --seed {SEED}
+python run.py durov-glasses-20-aug --seed 66631
 ```
 
 ## Reproducibility
